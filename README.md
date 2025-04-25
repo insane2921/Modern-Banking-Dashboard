@@ -49,7 +49,7 @@ This project was supported and inspired by the following tools and platforms:
 
 > _📌 Placeholder – replace with real screenshots later:_
 
-![Dashboard Overview](public/placeholder.svg?height=400&width=800)
+
 
 ---
 
